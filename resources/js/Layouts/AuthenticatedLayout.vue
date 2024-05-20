@@ -11,9 +11,11 @@ const showingNavigationDropdown = ref(false);
 </script>
 
 <template>
-    <div>
+     <div>
         <div class="min-h-screen bg-gray-50 dark:bg-gray-900">
-
+            <div class="p-4 flex w-full justify-center items-center">
+                <div class="w-1/3 h-[150px] bg-gray-300"></div>
+            </div>
         </div>
     </div>
 </template>
